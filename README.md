@@ -5,6 +5,7 @@ To use the model, you must first download the required files from the following 
 1. https://jmcauley.ucsd.edu/data/amazon_v2/categoryFilesSmall/Digital_Music_5.json.gz
 2. http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Amazon_Instant_Video_5.json.gz
 3. https://nlp.stanford.edu/projects/glove/
+
 For that last one, choose the twitter dataset.
 
 After that, you need to safe these files on a google drive folder named "6.7900 project" and put this folder at your root (My Drive).
