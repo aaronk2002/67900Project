@@ -7,5 +7,7 @@ To use the model, you must first download the required files from the following 
 3. https://nlp.stanford.edu/projects/glove/
 For that last one, choose the twitter dataset.
 
+After that, you need to safe these files on a google drive folder named "6.7900 project" and put this folder at your root (My Drive).
+
 The baseline_model.ipynb, dagger_model.ipynb, and loss_model.ipynb can be run once you download those required files.
 As for the GloVe files, you need to run glove_twitter.ipynb, then glove_embeding.ipynb, and once finished you can run the last two files in any order.
