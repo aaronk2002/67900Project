@@ -10,5 +10,5 @@ For that last one, choose the twitter dataset.
 
 After that, you need to safe these files on a google drive folder named "6.7900 project" and put this folder at your root (My Drive).
 
-The baseline_model.ipynb, dagger_model.ipynb, and loss_model.ipynb can be run once you download those required files.
-As for the GloVe files, you need to run glove_twitter.ipynb first to get the glove_twitter_25d.pickle file. Then, you need to run glove_embeding.ipynb to get the reviews_amazon_instant_video_twitterglove.npy file. Once finished, you can run the last two files in any order.
+The baseline_model.ipynb, dagger_model.ipynb, and loss_model.ipynb can be run once you download those required files, each runs the baseline, dagger, and loss models.
+As for the GloVe files, you need to run glove_twitter.ipynb first to get the glove_twitter_25d.pickle file. Then, you need to run glove_embeding.ipynb to get the reviews_amazon_instant_video_twitterglove.npy file. Once finished, you can run the last two files in any order, and these last two are the GloVe and GloVe++ models.
